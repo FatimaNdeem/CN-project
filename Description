@@ -1,0 +1,38 @@
+Campus-to-Campus Secure Communication System
+
+Project Overview:
+This project implements a Client–Server architecture in C++ to enable secure message exchange between multiple campuses using both TCP and UDP protocols. The system ensures reliable communication and provides additional functionalities such as live connection monitoring and file transfer between campuses.
+
+Key Features:
+
+Secure Messaging: Designed a robust client-server model allowing campuses to exchange messages securely over TCP and UDP.
+
+Heartbeat Signals: Implemented heartbeat mechanisms to detect active campus connections in real-time, ensuring reliability and quick detection of network failures.
+
+File Transfer: Added functionality for campus-to-campus file sharing, enabling the transmission of important documents and resources.
+
+Network Topology: Designed a Partial Mesh Topology using Cisco Packet Tracer, interconnecting 4 campuses: Lahore, Karachi, Islamabad, and Peshawar.
+
+Routing Protocols: Configured both Static Routing and OSPF (Open Shortest Path First) to optimize data routing and ensure efficient network traffic management.
+
+Technical Skills & Tools:
+
+Programming: C++, Socket Programming (TCP & UDP)
+
+Networking: Cisco Packet Tracer, OSPF, Static Routing, Partial Mesh Topology Design
+
+Concepts: Network reliability, communication protocols, client-server architecture, file transfer, heartbeat monitoring
+
+Learning Outcomes:
+This project provided hands-on experience in designing and implementing a real-world networked application, bridging the gap between theoretical concepts and practical implementation. Key takeaways include:
+
+Understanding the importance of communication reliability in distributed systems.
+
+Applying network design principles for efficient data routing and fault tolerance.
+
+Enhancing skills in C++ programming, socket communication, and network protocol configuration.
+
+Appreciating the integration of software development and networking theory in solving complex problems.
+
+Acknowledgements:
+Grateful to our instructors at FAST NUCES (CFD Campus) for their continuous guidance and support throughout the development of this project.
